@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="center">Cybersecurity professional with hands-on experience,specializing in VAPT, incident response, and<br>network security.</h4>
+<h4 align="center">Cybersecurity professional with hands-on experience, specializing in VAPT, incident response, and<br>network security.</h4>
 
 ###
 
@@ -71,13 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swarachis99/swarachis99/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swarachis99/swarachis99/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/swarachis99/swarachis99/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -93,3 +87,4 @@
 </div>
 
 ###
+
